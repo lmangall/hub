@@ -44,7 +44,7 @@ Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · 
 - another_shitty_developer_notes_app-with_ai- | exploration |
 - fotokotti | side |
 - futura_alpha_nextjs | dormant |
-- martyna_stec_m | client |
+- martyna_stec_m | family | [[wife|Martyna]]'s repo (not a client)
 - massena | active | flat guest-info site (Antibes) → [[massena]]
 - omr_dashboard | dormant |
 - scraping | tool |

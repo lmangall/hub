@@ -46,9 +46,9 @@ Personal calendar / planning layer. Calendar (Google + iCloud) is source of trut
 
 ## TT (télétravail)
 
-Working from home / remote. Communicated to [[quentin|Quentin]] in DM.
+Working from anywhere ([[quentin|Quentin]] confirmed: "tu peux le faire d'où tu veux"). Communicated to him in DM.
 
-**Taken** (recent):
+**Taken** — per [March planning message 2026-03-03](https://42lab.slack.com/archives/D09PKC6S170/p1772531514593329):
 - 2026-03-09, 2026-03-10 (Mon-Tue)
 - 2026-03-27 (Fri)
 - 2026-03-30 (Mon)
@@ -63,13 +63,18 @@ Working from home / remote. Communicated to [[quentin|Quentin]] in DM.
 
 ## Congés (vacation days)
 
+**Reference period**: 1 June → 31 May (per [Quentin's note 2025-12-08](https://42lab.slack.com/archives/D09PKC6S170/p1765180314337829)).
+**Saturday rule**: Saturdays count, up to 5 per reference period.
+
 **Taken**:
-- 2025-12-24, 2025-12-26, 2026-01-02 (Christmas / Nouvel An)
-- 2026-03-31
+- 2025-12-24, 2025-12-26, 2026-01-02 ([source 2025-12-04](https://42lab.slack.com/archives/D09PKC6S170/p1764858781365849)) — counted as 5 days total (1 + 2 with Saturday + 2)
+- 2026-03-31 ([source 2026-03-03](https://42lab.slack.com/archives/D09PKC6S170/p1772531514593329))
 
 **Upcoming** — per [summer planning message](https://42lab.slack.com/archives/D09PKC6S170/p1777562820285069):
 - 2026-07-09, 2026-07-10 — NOS Alive concert
 - 2026-08-03 — Corsica return travel day
+
+**Reminder workflow**: User reminds [[quentin|Quentin]] of upcoming congés **in the month they're taken** (not just at planning time). E.g., the July 9-10 congés should be re-mentioned to Quentin in early July. Surface this as a pending item at the start of each month with planned congés.
 
 ## Friends staying at flat
 
@@ -89,10 +94,10 @@ For TT/long-weekend planning:
 
 ## Conventions
 
-- **Calendar coverage**: this user has multiple calendars under `l.mangallon@gmail.com` plus iCloud. Google MCP can access:
-  - `l.mangallon@gmail.com` (primary) — work/sparse
-  - `Particuliers center` (`d7ig3lmhm25t0opaju1rqql11s@group.calendar.google.com`) — currently empty
-  - `Love calendar` (`f6666cc7bf2102a27933ac16c5b9647176d3947eeeb7721b953b746b42a6f116@group.calendar.google.com`) — created by `stec.martine@gmail.com` ([[wife]]); holds most travel/concert events
+- **Calendar coverage**: user has multiple calendars under `l.mangallon@gmail.com` plus iCloud. Google MCP can access:
+  - **`Love calendar`** (`f6666cc7bf2102a27933ac16c5b9647176d3947eeeb7721b953b746b42a6f116@group.calendar.google.com`) — **primary couple calendar**, created/maintained by `stec.martine@gmail.com` ([[wife|Martyna]]). Most "couple things" (trips, flights, hotels, concerts, anniversaries) live here. **Default calendar to query for personal events.**
+  - `l.mangallon@gmail.com` (primary) — work/sparse, has wedding events
+  - `Particuliers center` — currently empty
   - Holidays calendars (Pologne, France) — informational
 - **iCloud calendars are NOT accessible** via Google MCP. Events on iCloud (Personnel, Travail, Home, etc.) include things like "Lera i Yurii u nas", NOS Alive ticket, Corsica ferry — read screenshots or ask user when needed.
 - **TT/Congé planning** lives in [[quentin|Quentin]] DM (`D09PKC6S170`). Search `"préparation de l'été"`, "TT", "congé". See [[slack]] § TT/congé queries.
