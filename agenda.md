@@ -85,7 +85,7 @@ When new congés are added to the plan, create a matching reminder event for the
 When friends use the flat, send them the [[massena|Antibes flat guest-info site]].
 
 - **Lera & Yurii**: 2026-07-06 – 2026-07-14 (during Portugal trip; calendar "Lera i Yurii u nas")
-- **Paris weekend overlap (Jun 11 – 14)**: user mentioned friends at flat, no calendar entry visible — confirm
+- **Paris weekend (Jun 11 – 14)**: confirmed (likely iCloud, names TBD)
 
 ## French public holidays (cross-reference)
 
