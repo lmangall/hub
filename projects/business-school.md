@@ -4,7 +4,7 @@
 
 - Code: [`~/Repos/business_school_ai_platform/CLAUDE.md`](file:///Users/lmangall/Repos/business_school_ai_platform/CLAUDE.md)
 - Feature branch: `~/Repos/business_school_ai_platform-ai-feature`
-- SaShip project branch: TBD (likely under a per-project name on `~/Repos/SaShip`)
+- **Not on SaShip** (yet). SaShip currently wires Entrepreneurs only.
 
 ## Stakeholders
 - Clients: [Alix](../people/clients/alix.md), [Elodie](../people/clients/elodie.md)

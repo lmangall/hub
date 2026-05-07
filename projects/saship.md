@@ -25,7 +25,7 @@ Client dev repo (la-plateforme)              SaShip tracking repo
 
 ## Stakeholders
 - [Quentin](../people/quentin.md)
-- Active project branches: `eos` (Entrepreneurs / la-plateforme), and a business-school branch (Alix astrology MVP)
+- **Currently used only for: Entrepreneurs program** (la-plateforme-SECOND), branch `eos`. Other clients (business-school / Alix) are not yet wired into SaShip.
 
 ## Open threads
 - Quentin to review SaShip extras update + churn-coaching BI (Léonard pinged 2026-05-06)
