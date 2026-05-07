@@ -42,3 +42,13 @@ When user asks "what's open for Alix", "what's pending in Entrepreneurs", etc.:
 | `:hammer_and_wrench:` | Dev environment push | [[saship\|SaShip]] bot |
 | `:construction:` | Staging deploy | [[saship\|SaShip]] bot |
 | `:ticket:` | Zendesk × SaShip ticket forwarded | [[saship\|SaShip]] bot |
+
+## Source permalinks
+
+When filing a doc/link/decision into the hub, **always include a Slack permalink as source** so we can trace back to the original message.
+
+Format: `https://42lab.slack.com/archives/<CHANNEL_ID>/p<TS_NO_DOT>`
+
+Example: TS `1777833804.984049` in channel `C0A773J15FF` → `https://42lab.slack.com/archives/C0A773J15FF/p1777833804984049`
+
+`slack_search_*` and `slack_read_*` (detailed mode) return permalinks directly — copy them as-is. Strip `?thread_ts=...&cid=...` query params for cleanliness unless the permalink targets a thread reply specifically.
