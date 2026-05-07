@@ -36,10 +36,10 @@ Sources: imported from `Downloads/movies.md.pdf` (integrated 2026-05-07) + scree
 | 21 | Samba | 2014 | M | Senegalese immigrant in France, deportation + love | ❓ |
 | 22 | The Song of Sparrows | 2008 | M | Iranian father in Tehran; son learns simple values | ❓ |
 | 23 | I Am Sam | 2001 | M | Father with intellectual disability fights for custody | ❓ |
-| 24 | The Perks of Being a Wallflower | 2012 | M | Introverted freshman befriends two seniors | ❓ |
-| 25 | Simona Kossak | 2024 | M | Biographical film on the Polish biologist who lived in the Białowieża Forest | ❓ |
-| 26 | Green Book | 2018 | M | Italian-American driver chauffeurs a Black classical pianist through the 1960s American South | ❓ |
-| 27 | Beef *(Season 1)* | 2023 | S | Two strangers' road-rage incident escalates into all-consuming feud | ❓ |
+| 24 | The Perks of Being a Wallflower | 2012 | M | Introverted freshman befriends two seniors | ❌ |
+| 25 | Simona Kossak | 2024 | M | Biographical film on the Polish biologist who lived in the Białowieża Forest | ❌ |
+| 26 | Green Book | 2018 | M | Italian-American driver chauffeurs a Black classical pianist through the 1960s American South | ❌ |
+| 27 | Beef *(Season 1)* | 2023 | S | Two strangers' road-rage incident escalates into all-consuming feud | ❌ |
 
 ## How to use
 
