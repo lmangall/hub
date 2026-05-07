@@ -74,7 +74,11 @@ Working from anywhere ([[quentin|Quentin]] confirmed: "tu peux le faire d'où tu
 - 2026-07-09, 2026-07-10 — NOS Alive concert
 - 2026-08-03 — Corsica return travel day
 
-**Reminder workflow**: User reminds [[quentin|Quentin]] of upcoming congés **in the month they're taken** (not just at planning time). E.g., the July 9-10 congés should be re-mentioned to Quentin in early July. Surface this as a pending item at the start of each month with planned congés.
+**Reminder workflow**: User reminds [[quentin|Quentin]] of upcoming congés **in the month they're taken** (not just at planning time). Reminders set as Google Calendar events on `l.mangallon@gmail.com`:
+- Wed 2026-07-01 09:00 — "Rappel Quentin: congés 9 et 10 juillet (NOS Alive)" ([event](https://www.google.com/calendar/event?eid=NzltZGF0MmpxM2xibXFscHI5cmFwZDNtbjQgbC5tYW5nYWxsb25AbQ))
+- Sat 2026-08-01 09:00 — "Rappel Quentin: congé lundi 3 août (retour Corse)" ([event](https://www.google.com/calendar/event?eid=cG0yN2xmNGo3OGJ2a3Q1NTQyNHU2bjVycTAgbC5tYW5nYWxsb25AbQ))
+
+When new congés are added to the plan, create a matching reminder event for the first of that month at 09:00 (Banana / colorId 5).
 
 ## Friends staying at flat
 
