@@ -28,6 +28,7 @@ Cross-project context. Always read [today.md](today.md) first for current focus.
 - Project files are **thin pointers** to each repo's CLAUDE.md (canonical). Hub holds cross-cutting state only.
 - **Conductor worktrees** live at `~/conductor/workspaces/` — when in one, treat it as the same project as the parent repo (link via the `repos.md` registry).
 - **Git identities**: pro (42Lab) and perso are separate — see [conventions/git-identities.md](conventions/git-identities.md). Never mix.
+- **Umbrella dirs**: some `~/Repos*/` entries are parent dirs grouping multiple sub-repos under one CLAUDE.md — see [conventions/umbrella-dirs.md](conventions/umbrella-dirs.md). Check before assuming a dir is a single repo.
 
 ## Future
 - **Active reminders** via Resend (already used in la-plateforme): `/schedule` → cron → email. Set up later.

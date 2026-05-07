@@ -10,7 +10,7 @@ Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · 
 - SaShip | active | → [project](projects/saship.md)
 - business_school_ai_platform | active | Alix, Elodie → [project](projects/business-school.md)
 - business_school_ai_platform-ai-feature | active | feature branch checkout
-- SwissEON | paused |
+- SwissEON | paused | **[umbrella]** sub-repos: `swisseon-platform`, `swisseon-portal`, `SwissEON_AI`, `docs-notion-user-guide`
 - SwissEON_AI-bis | paused |
 - former_SwissEON_platform | archived |
 - ai-chatbot-main | reference |
@@ -24,9 +24,9 @@ Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · 
 - git-notion-master | tool |
 
 ## Personal — `~/Repos_P/`
-- oumamie | active | → [project](projects/oumamie.md)
+- oumamie | active | **[umbrella]** sub-repo: `flaveur/` (perso). Also root-level loose code. → [project](projects/oumamie.md)
 - oumamie_reglementation | active | → [project](projects/oumamie-reglementation.md)
-- oumamie_crm | dormant |
+- oumamie_crm | dormant | **[umbrella]** no sub-repos currently, code only
 - echa_api | dormant |
 - ECHA_experiments | dormant |
 - eur-lex | dormant |
