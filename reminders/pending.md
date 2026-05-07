@@ -8,6 +8,9 @@ Things to surface next time you open Claude. Format: `[date added] thing — con
 
 ## From Slack scrape (2026-05-07: [[quentin|Quentin]] DMs ~3wk + #42lab-X-Entrepreneurs ~11 days)
 - **Update payslip address**: Marseille → 8 cours Masséna, 06600 Antibes (mentioned 2026-05-04)
+
+## SwissEON
+- [2026-05-07] **Put back [[quentin|Quentin]]'s Firecrawl API key in SwissEON prod** (was borrowed; restore on the SwissEON production environment). Calendar reminder set for Thu 2026-05-08 09:00.
 - **Coaching questionnaire**: reduce steps + open questions non-mandatory (noted 2026-05-06)
 - **Refonte agents IA**: decide what to do with 6 unused agent prompts on [[la-plateforme]] (note 2026-04-23)
 - **Knowledge Graph thread**: pick back up — Dassault Systèmes context, "vieille techno qui revient avec LLM"
