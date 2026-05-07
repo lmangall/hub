@@ -14,7 +14,9 @@ Cross-project context. Always read [today.md](today.md) first for current focus.
 ## People
 - [Quentin](people/quentin.md) — cofounder, 42Lab
 - [Wife](people/wife.md)
-- Clients: [Alix](people/clients/alix.md), [Elodie](people/clients/elodie.md), [Léa](people/clients/lea.md), [Fabrice](people/clients/fabrice.md)
+- External contacts:
+  - Alix's team (business-school astrology MVP — Alix is the actual client): [Alix](people/clients/alix.md), [Elodie](people/clients/elodie.md)
+  - Entrepreneurs (relays / PMs, not clients): [Léa](people/clients/lea.md), [Fabrice](people/clients/fabrice.md)
 
 ## Other
 - [All repos](repos.md) — full registry (~25)

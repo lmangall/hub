@@ -15,7 +15,7 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 
 ## Stakeholders
 - [Quentin](../people/quentin.md) — cofounder
-- Entrepreneurs program direct contacts: [Léa](../people/clients/lea.md), [Fabrice](../people/clients/fabrice.md)
+- Entrepreneurs program — relays/PMs (sit between 42Lab and Entrepreneurs' end-users, open tickets, test features): [Léa](../people/clients/lea.md), [Fabrice](../people/clients/fabrice.md)
 - Slack: **`#42lab-X-Entrepreneurs`** (`C0AFPEVCPR8`) — operational channel, multi-deploy/day, SaShip bot posts deploys + Zendesk tickets here
 - Active end users referenced in tickets/DMs: Hélène Agati (Excel upload bug), Alfonso (deal process bug), Abdel (offer-quality), Myriam Daniel (LeanPay redirect bug → goes to wrong portal, should be Learnybox), Aurélie Castel (coach change), Tristan Monthillier (coach access)
 

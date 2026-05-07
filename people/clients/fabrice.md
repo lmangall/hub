@@ -1,11 +1,13 @@
 # Fabrice
 
-Client — [la-plateforme](../../projects/la-plateforme.md), Entrepreneurs program (`la-plateforme-SECOND` checkout).
+On the **Entrepreneurs** side. Likely same relay/PM role as [Léa](lea.md) — between 42Lab and end-users of the Entrepreneurs platform — but **needs confirmation**.
 
-- Channels: Slack
+- Side: Entrepreneurs
+- Slack: `#42lab-X-Entrepreneurs` (`C0AFPEVCPR8`)
+- Project: [la-plateforme](../../projects/la-plateforme.md), Entrepreneurs program
 
-## Asks / context
+## Open with him
 -
 
-## Waiting on
--
+## Context
+- Hasn't appeared yet in scraped messages — quieter than Léa, or different scope?
