@@ -58,9 +58,7 @@ aliases: [Business School, Alix astrology MVP]
 ## Open threads
 - **Lancement target** (Léonard's 2026-05-04 note in [[quentin|Quentin]] DM): possible weeks 8-14 *sans* LMS / *sans* API. Start with UI fix + Agent IA.
 - **AI prompt confusion** — GLOBAL vs Général appear nearly identical; Coach prompt activated unclear; Identité prompt response doesn't seem to match. Needs prompt audit.
-- **Recent customer-reported bugs** (likely still open — confirm via wheel/tick reactions):
-  - Audrey Bisiaux: chemin de vie shows 3, should be 9 (data correctness)
-  - Star Perle Gene Keys: sphere creativity 31.4 vs 33.3 — Uranus conscient/inconscient mix-up
-  - App bug 2026-05-06: feedback impossible via app
-  - Roue astro too small in profile views (2026-05-05)
-  - Adrien (Alix team): "next" button hidden on phone in onboarding
+
+## Live ticket status
+
+Don't snapshot tickets here — they go stale. For "what's currently open for Alix?", query the channel using the [[slack]] gear/tick convention. As of 2026-05-07 there were 7 open items (recent UX + data-correctness bugs).

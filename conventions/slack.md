@@ -16,11 +16,13 @@ When user mentions a project or person ("check Alix", "what's pending for Entrep
 
 ## In-channel ticketing convention (Léonard's habit)
 
-Light-touch ticketing on top of normal Slack messages:
+Light-touch ticketing on top of normal Slack messages, applied as **reactions** (not in-body):
 - ⚙️ **gear** (`:gear:`) — open / to be solved
 - ✅ **tick** (`:white_check_mark:`) — done
 
-**Assumption (to confirm with user)**: emoji applied as **reaction** on the request message, not in-body. None of the `:gear:` emoji appear in scraped message bodies, only `:rocket:` (deploy announcements) and `:white_check_mark:` in-body for "I just fixed this".
+**Confirmed working** via test on `#business-school-ai` 2026-05-07. Use `response_format: detailed` — concise mode strips reactions.
+
+Note: `:white_check_mark:` also appears **in-body** (without being a reaction) in Léonard's "I just fixed this" deploy posts. Treat in-body and reaction usage separately. Same for `:rocket:` (only in-body, only as deploy announcement).
 
 ## Workflow: "what's currently open for X?"
 
