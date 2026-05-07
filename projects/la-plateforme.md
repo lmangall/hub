@@ -29,8 +29,6 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 - Active end users referenced in tickets/DMs: Hélène Agati (Excel upload bug), Alfonso (deal process bug), Abdel (offer-quality), Myriam Daniel (LeanPay redirect bug → goes to wrong portal, should be Learnybox), Aurélie Castel (coach change), Tristan Monthillier (coach access)
 
 ## Open threads
-- Should I avoid asking [[lea|Léa]] to test/verify things? Or keep doing it via hello-work/priv? *(asked [[quentin|Quentin]] 2026-05-07)*
-- **Admins cleanup**: [[quentin|Quentin]] to send list of admins to remove or whose role to restrict
 - **Refonte agents IA**: 6 unused prompts to clean up or wire — `delivery-experience`, `automatisation-ia`, `leadership-mindset`, `strategie-expansion`, `resolution-client`, `consulting-live` (admin-only by design)
 - **Inngest V4 migration** deferred — V4 has breaking changes, only bumped to V3 for now
 - **Knowledge Graph** thread (Dassault Systèmes context, big-data + LLM angle)

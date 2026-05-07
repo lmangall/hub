@@ -36,7 +36,7 @@ Client dev repo (la-plateforme)              SaShip tracking repo
 - **Currently used only for: Entrepreneurs program** ([[la-plateforme]] / `la-plateforme-SECOND`), branch `eos`. Other clients ([[business-school]] / [[alix|Alix]]) are not yet wired into SaShip.
 
 ## Open threads
-- [[quentin|Quentin]] to review SaShip extras update + churn-coaching BI (Léonard pinged 2026-05-06)
+-
 
 ## Decisions / context worth remembering
 - **SaSentinel** *(planned, not yet built)*: scheduled Claude agent. Each Thursday morning, re-reads the week's IA conversations, flags ones where users struggled, checks if a Linear ticket already exists, posts a structured report to the SaShip Slack channel. Discussed 2026-04-30. Owner: Léonard?

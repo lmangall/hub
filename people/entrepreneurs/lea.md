@@ -16,7 +16,7 @@ aliases: [Léa]
 - Project: [[la-plateforme]], Entrepreneurs program (`la-plateforme-SECOND` checkout)
 
 ## Open with her
-- Awaiting feedback on Sarah's bank statements (dates aligned to May 2026)
+-
 
 ## Context
-- Léonard sometimes asks her to test/verify — currently questioning whether to keep doing this or send via priv channels (open question to [[quentin|Quentin]] 2026-05-07)
+-
