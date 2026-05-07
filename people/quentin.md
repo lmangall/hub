@@ -2,6 +2,8 @@
 type: person
 side: 42lab
 role: cofounder
+slack_user: U08V2JYVCE6
+slack_dm: D09PKC6S170
 aliases: [Quentin, Quentin Hugot]
 ---
 

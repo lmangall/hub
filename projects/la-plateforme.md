@@ -3,6 +3,7 @@ type: project
 status: active
 side: pro
 client: entrepreneurs
+slack: C0AFPEVCPR8
 aliases: [La Plateforme, la-plateforme]
 ---
 
