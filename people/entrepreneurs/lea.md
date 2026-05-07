@@ -4,6 +4,7 @@
 
 - Side: Entrepreneurs
 - Role: relay between 42Lab and Entrepreneurs' end-users
+- Boss: [Fabrice](fabrice.md)
 - Slack: `#42lab-X-Entrepreneurs` (`C0AFPEVCPR8`), occasionally hello-work / priv channels
 - Project: [la-plateforme](../../projects/la-plateforme.md), Entrepreneurs program (`la-plateforme-SECOND` checkout)
 

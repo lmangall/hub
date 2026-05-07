@@ -7,7 +7,7 @@
 - **Not on SaShip** (yet). SaShip currently wires Entrepreneurs only.
 
 ## Stakeholders
-- Clients: [Alix](../people/clients/alix.md), [Elodie](../people/clients/elodie.md)
+- Clients: [Alix](../people/business-school/alix.md), [Elodie](../people/business-school/elodie.md)
 - [Quentin](../people/quentin.md) — cofounder
 - Note from DMs: "team Alix" emails frequently with "les astres sont avec moi" tagline (in-character with the product)
 
