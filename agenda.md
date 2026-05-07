@@ -17,7 +17,7 @@ Personal calendar / planning layer. Calendar (Google + iCloud) is source of trut
 - Concert: **Aldous Harding, Salle Pleyel, Paris** — Fri Jun 12 ([event](https://www.google.com/calendar/event?eid=XzhjcjQyY3BvNjRyamNiOXA2OTJqZ2I5azZrb2plYjlwNmQyMzhiYTQ4OHFqNmhpNTZvcms2YzFoOG8gZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn)). Calendar shows 09:00 (Warsaw TZ) — likely a reminder, **actual concert time TBD**.
 - Then continues into Wroclaw Sun Jun 14 evening (next trip)
 - TT around trip: 11/06, 12/06
-- ⚠ User said "friends stay at our place" for Paris — **not visible on any Google calendar**. Possibly on iCloud, or confused with the Portugal/Lera window. Confirm.
+- 🏠 Friends at flat: confirmed (likely on iCloud calendar — names TBD) — share [[massena|flat info site]]
 
 ### Wroclaw / Poland (Sun Jun 14 – Thu Jun 25, 2026)
 - Outbound: **Sun Jun 14 18:45 → 20:40**, Ryanair to Wroclaw ([event](https://www.google.com/calendar/event?eid=XzhwMGthZDlsNjkwamViYTY4b3E0OGI5azhwMTNhYmEyNzRwNGNiOWo2bDE0MmhpMzhnc2plaDIyOGsgZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn))
@@ -59,7 +59,7 @@ Working from anywhere ([[quentin|Quentin]] confirmed: "tu peux le faire d'où tu
 - 2026-07-01 – 2026-07-03 — pre-Portugal (catches the Wroclaw return)
 - 2026-07-21 – 2026-08-03 — working from Corsica
 
-**Status**: [[quentin|Quentin]] replied "Sur le papier aucun soucis" but suggested re-discussing with calendar in hand. **Confirm formal sign-off**.
+**Status**: [[quentin|Quentin]] approved on Apr 30 ("Sur le papier aucun soucis") — treat as green-lit.
 
 ## Congés (vacation days)
 

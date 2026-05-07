@@ -18,6 +18,7 @@ Cross-project context. Always read [[today]] first for current focus.
 
 ## Personal planning
 - [[agenda]] — trips, TT, congés, friends-at-flat schedule
+- [[calendar]] — flat-by-date local cache of upcoming events (re-syncable from MCP)
 
 ## People
 - [[quentin|Quentin]] — cofounder, 42Lab
