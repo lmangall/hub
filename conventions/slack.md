@@ -17,18 +17,18 @@ When user mentions a project or person ("check Alix", "what's pending for Entrep
 ## In-channel ticketing convention (Léonard's habit)
 
 Light-touch ticketing on top of normal Slack messages:
-- 🛞 **wheel** — open / to be solved
+- ⚙️ **gear** (`:gear:`) — open / to be solved
 - ✅ **tick** (`:white_check_mark:`) — done
 
-**Assumption (to confirm with user)**: emoji applied as **reaction** on the request message, not in-body. None of the `:wheel:` emoji appear in scraped message bodies, only `:rocket:` (deploy announcements) and `:white_check_mark:` in-body for "I just fixed this".
+**Assumption (to confirm with user)**: emoji applied as **reaction** on the request message, not in-body. None of the `:gear:` emoji appear in scraped message bodies, only `:rocket:` (deploy announcements) and `:white_check_mark:` in-body for "I just fixed this".
 
 ## Workflow: "what's currently open for X?"
 
 When user asks "what's open for Alix", "what's pending in Entrepreneurs", etc.:
 1. Find the channel ID in the registry above
-2. `slack_read_channel` with recent limit (~50–100)
-3. For each request-style message (typically from the client side), check reactions — use detailed `response_format` since concise may strip reactions
-4. Filter: has `:wheel:` (or whichever the user confirms) AND no `:white_check_mark:`
+2. `slack_read_channel` with recent limit (~50–100), `response_format: detailed` (concise strips reactions)
+3. For each request-style message (typically from the client side), check reactions
+4. Filter: has `:gear:` AND no `:white_check_mark:`
 5. Return: date + 1-line summary, grouped by topic if it helps
 
 ## Bot / deploy emojis (informational, in message body)
