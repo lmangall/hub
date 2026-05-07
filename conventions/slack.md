@@ -43,6 +43,20 @@ When user asks "what's open for Alix", "what's pending in Entrepreneurs", etc.:
 | `:construction:` | Staging deploy | [[saship\|SaShip]] bot |
 | `:ticket:` | Zendesk × SaShip ticket forwarded | [[saship\|SaShip]] bot |
 
+## TT / congé queries (from [[quentin|Quentin]] DM)
+
+TT and congé planning lives in the [[quentin|Quentin]] DM (`D09PKC6S170`). The user files a periodic summary message there ("préparation de l'été" pattern); Quentin replies with sign-off.
+
+To answer "when am I working from home next?" or "what congés have I taken/planned?":
+1. Search the DM with detailed format:
+   - `in:<@U08V2JYVCE6> TT`
+   - `in:<@U08V2JYVCE6> congé`
+   - `in:<@U08V2JYVCE6> télétravail`
+   - `in:<@U08V2JYVCE6> "préparation de"` (catches summer/winter/etc planning summaries)
+2. Pick the most recent summary message → that's the canonical plan.
+3. Cross-reference with [[agenda]] § TT and § Congés.
+4. Update [[agenda]] if there's new info, citing the Slack permalink.
+
 ## Source permalinks
 
 When filing a doc/link/decision into the hub, **always include a Slack permalink as source** so we can trace back to the original message.

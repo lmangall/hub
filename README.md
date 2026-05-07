@@ -14,6 +14,10 @@ Cross-project context. Always read [[today]] first for current focus.
 ## Active — personal
 - [[oumamie]]
 - [[oumamie-reglementation]]
+- [[massena]] — Antibes flat guest-info site
+
+## Personal planning
+- [[agenda]] — trips, TT, congés, friends-at-flat schedule
 
 ## People
 - [[quentin|Quentin]] — cofounder, 42Lab

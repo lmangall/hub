@@ -45,7 +45,7 @@ Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · 
 - fotokotti | side |
 - futura_alpha_nextjs | dormant |
 - martyna_stec_m | client |
-- massena | dormant |
+- massena | active | flat guest-info site (Antibes) → [[massena]]
 - omr_dashboard | dormant |
 - scraping | tool |
 - volley | dormant |
