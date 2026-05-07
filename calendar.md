@@ -19,7 +19,7 @@ For trip context (purpose, hotels, friends-at-flat, decisions) see [[agenda]]. F
 - 💛 **Thu Jun 11, 19:55 → 21:35** — EJU1629 easyJet Nice → Paris CDG — [event](https://www.google.com/calendar/event?eid=XzZkMjNjZGExODRyMzRiOWw2OHEzY2I5azYxMWowYmExNm9zMzRiYTI4NHE0OGM5aDg0cmplZTFqNm8gZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn)
 - 💛 **Fri Jun 12 → Sun Jun 14** — Paris stay (all-day band)
 - 💛 **Fri Jun 12, 09:00** — Aldous Harding, Salle Pleyel, Paris — [event](https://www.google.com/calendar/event?eid=XzhjcjQyY3BvNjRyamNiOXA2OTJqZ2I5azZrb2plYjlwNmQyMzhiYTQ4OHFqNmhpNTZvcms2YzFoOG8gZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn) *(time looks like a placeholder, actual concert evening)*
-- 🔵 **Jun 11 – 14** — Friends at flat (Paris weekend; user-confirmed, names TBD)
+- 🔵 **Jun 11 – 14** — Friends at flat (Paris weekend; Léonard knows them, names not on file)
 - 💛 **Sun Jun 14, 18:45 → 20:40** — Ryanair Paris → Wroclaw — [event](https://www.google.com/calendar/event?eid=XzhwMGthZDlsNjkwamViYTY4b3E0OGI5azhwMTNhYmEyNzRwNGNiOWo2bDE0MmhpMzhnc2plaDIyOGsgZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn)
 - 💛 **Thu Jun 25, 18:10 → 20:10** — WIZZ Wroclaw → Nice — [event](https://www.google.com/calendar/event?eid=XzhvcDQyZ3BvODRvazZiYTQ4b3BqZWI5azg4c2syYmEyNmgxazZiOWc3NHMzNmdhMjg4cmsyZzlwNjAgZjY2NjZjYzdiZjIxMDJhMjc5MzNhYzE2YzViOTY0NzE3NmQzOTQ3ZWVlYjc3MjFiOTUzYjc0NmI0MmE2ZjExNkBn)
 
