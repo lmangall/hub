@@ -26,3 +26,8 @@ Cross-project context. Always read [today.md](today.md) first for current focus.
 - Update [today.md](today.md) when focus shifts.
 - Add to [pending](reminders/pending.md) instead of trying to remember.
 - Project files are **thin pointers** to each repo's CLAUDE.md (canonical). Hub holds cross-cutting state only.
+- **Conductor worktrees** live at `~/conductor/workspaces/` — when in one, treat it as the same project as the parent repo (link via the `repos.md` registry).
+
+## Future
+- **Active reminders** via Resend (already used in la-plateforme): `/schedule` → cron → email. Set up later.
+- **Slack scrape** of DMs with Quentin to surface projects/links → see [pending](reminders/pending.md).
