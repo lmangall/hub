@@ -16,8 +16,8 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 ## Stakeholders
 - [Quentin](../people/quentin.md) — cofounder
 - Entrepreneurs program direct contacts: [Léa](../people/clients/lea.md), [Fabrice](../people/clients/fabrice.md)
-- Active end users (referenced in DMs): Hélène Agati (Excel upload bug on tableau de bord), Alfonso (deal process bug), Abdel (offer-quality completion question)
-- Slack: per-client channel, plus the `42lab-X-Entrepreneurs` group
+- Slack: **`#42lab-X-Entrepreneurs`** (`C0AFPEVCPR8`) — operational channel, multi-deploy/day, SaShip bot posts deploys + Zendesk tickets here
+- Active end users referenced in tickets/DMs: Hélène Agati (Excel upload bug), Alfonso (deal process bug), Abdel (offer-quality), Myriam Daniel (LeanPay redirect bug → goes to wrong portal, should be Learnybox), Aurélie Castel (coach change), Tristan Monthillier (coach access)
 
 ## Open threads
 - Should I avoid asking Léa to test/verify things? Or keep doing it via hello-work/priv? *(asked Quentin 2026-05-07)*
@@ -28,8 +28,20 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 - **Composio Google Sheet**: agent quality on GSheet creation is poor — improvements made but not enough
 - **Coaching questionnaire**: reduce steps + make open questions non-mandatory (with char limit)
 
+## Active work pillars (snapshot from #42lab-X-Entrepreneurs channel late Apr–early May)
+- **Landing page builder** *(dominant focus)* — `get-entrepreneurs.com` GTM, Marketplace tab, 30+ templates, theme customizer + Google Fonts, block library "Les plus utilisés", funnel/pages split, cal.eu integration, Noah agent dock, lead capture, demo data for sarah-demo. PLG strategy: free `get-entrepreneurs.com/<page>` URLs drive organic traffic to builder.
+- **Finances** — large-file imports (>50), AI categorization on gpt-5-mini, seasonal projection, IBAN tooltip, multi-line category panels, bulk edits, internal transfers via chat
+- **Avatar** — 3 personas, mobile drawer, channel mgmt, PDF export, credits infra (phase 2)
+- **HubSpot sync** — deals, club members, Vercel completion fixes
+- **MAGIC formula** (Offre Irrésistible) — header rename, persistence, agent data access, scoring; **BtoC adaptation open**
+- **LeanPay** — sync fixes, Copilote impayé link bug
+- **Coaching analytics** — churn dashboard, cohort segmentation, capacity-rule simplification, expert auto-rescheduling
+- **Veille / RH / Permissions** — secondary
+
 ## Decisions / context worth remembering
 - **HeySimon designer** under trial — "très costaud sur la création d'un branding à partir d'un pitch"; advantage for 42Lab MVP work
 - Finances module: multi-account detection broken — virements between own accounts show as top-5 client revenue (Quentin auditing 2026-04-20)
 - `next-intl` planned for the la-plateforme stack
 - Veille/Concurrents agent uses Firecrawl `crawl` endpoint — picks up SEO URLs not on landing
+- Active client capacity rule reduced to **two criteria**: period + access
+- "Depuis un template" page-creation option **removed** (simplification); block variants limit raised to 30

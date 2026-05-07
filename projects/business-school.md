@@ -1,18 +1,21 @@
-# Business School AI Platform
+# Business School (Alix astrology MVP)
 
-42Lab MVP for business school clients.
+42Lab MVP for client **Alix** — an **astrology product** (note: repo name "business_school_ai_platform" reflects client sector, not product domain).
 
 - Code: [`~/Repos/business_school_ai_platform/CLAUDE.md`](file:///Users/lmangall/Repos/business_school_ai_platform/CLAUDE.md)
 - Feature branch: `~/Repos/business_school_ai_platform-ai-feature`
+- SaShip project branch: TBD (likely under a per-project name on `~/Repos/SaShip`)
 
 ## Stakeholders
 - Clients: [Alix](../people/clients/alix.md), [Elodie](../people/clients/elodie.md)
 - [Quentin](../people/quentin.md) — cofounder
-- Slack: dedicated channel
-- Note from DMs: "team Alix" sends ~40 emails with "les astres sont avec moi" tagline
+- Note from DMs: "team Alix" emails frequently with "les astres sont avec moi" tagline (in-character with the product)
+
+## Product references
+- <https://www.thepattern.com> — pattern/astrology app
+- <https://www.costarastrology.com> — costar astrology
+- Concepts brainstormed: "Planning Cosmique", "Platerary Retrogates" (name play on Planetary Retrogrades), Transits
+- Look at Manus mockup for Planning Cosmique / Retrogarde / Transits
 
 ## Open threads
-- **Lancement target** (per Léonard's 2026-05-04 note): possible weeks 8-14 sans LMS / sans API. Start with UI fix + Agent IA.
-
-## Decisions / context worth remembering
-- **Astrology theme** flagged in DMs (`thepattern.com`, `costarastrology.com`, names like "Planning Cosmique", "Platerary Retrogates", "Transits"). **Unclear if this is**: (a) Alix's existing brand language, (b) a separate astrology MVP being brainstormed, (c) something else. **→ ask user to clarify.**
+- **Lancement target** (Léonard's 2026-05-04 note): possible weeks 8-14 *sans* LMS / *sans* API. Start with UI fix + Agent IA.
