@@ -1,3 +1,11 @@
+---
+type: project
+status: active
+side: pro
+client: entrepreneurs
+aliases: [SaShip]
+---
+
 # SaShip
 
 **Tracking repo + roadmap frontend** — passive receiver of commit data from client dev repos. One Next.js app per project, deployed via Vercel, served at `*.saship.42lab.co`.
@@ -24,11 +32,11 @@ Client dev repo (la-plateforme)              SaShip tracking repo
 - la-plateforme's `[la-plateforme]` (or per-project) commit prefix gates which commits enter which roadmap
 
 ## Stakeholders
-- [Quentin](../people/quentin.md)
-- **Currently used only for: Entrepreneurs program** (la-plateforme-SECOND), branch `eos`. Other clients (business-school / Alix) are not yet wired into SaShip.
+- [[quentin|Quentin]]
+- **Currently used only for: Entrepreneurs program** ([[la-plateforme]] / `la-plateforme-SECOND`), branch `eos`. Other clients ([[business-school]] / [[alix|Alix]]) are not yet wired into SaShip.
 
 ## Open threads
-- Quentin to review SaShip extras update + churn-coaching BI (Léonard pinged 2026-05-06)
+- [[quentin|Quentin]] to review SaShip extras update + churn-coaching BI (Léonard pinged 2026-05-06)
 
 ## Decisions / context worth remembering
 - **SaSentinel** *(planned, not yet built)*: scheduled Claude agent. Each Thursday morning, re-reads the week's IA conversations, flags ones where users struggled, checks if a Linear ticket already exists, posts a structured report to the SaShip Slack channel. Discussed 2026-04-30. Owner: Léonard?
@@ -41,4 +49,3 @@ Client dev repo (la-plateforme)              SaShip tracking repo
 - `:hammer_and_wrench: *Léonard Mangallon a ajouté à l'environnement de développement*` — dev branch push
 - `:ticket: Zendesk x SaShip #11xxx — <title>` — **Zendesk integration**: tickets get auto-posted here
 - Tickets without SaShip prefix in the channel are typically manual `/extras` filings
-

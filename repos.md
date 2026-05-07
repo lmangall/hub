@@ -1,14 +1,18 @@
+---
+type: registry
+---
+
 # Repos
 
 Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · `archived` · `reference` · `tool` · `side` · `learning`.
 *Statuses are first-pass guesses — fix as needed.*
 
 ## Work — `~/Repos/`
-- la-plateforme | active | main checkout → [project](projects/la-plateforme.md)
-- la-plateforme-SECOND | active | Entrepreneurs program (Léa, Fabrice)
+- la-plateforme | active | main checkout → [[la-plateforme]]
+- la-plateforme-SECOND | active | Entrepreneurs program ([[lea|Léa]], [[fabrice|Fabrice]])
 - la-plateforme-composio | archived | merged into main repo
-- SaShip | active | → [project](projects/saship.md)
-- business_school_ai_platform | active | Alix, Elodie → [project](projects/business-school.md)
+- SaShip | active | → [[saship]]
+- business_school_ai_platform | active | [[alix|Alix]], [[elodie|Elodie]] → [[business-school]]
 - business_school_ai_platform-ai-feature | active | feature branch checkout
 - SwissEON | paused | **[umbrella]** sub-repos: `swisseon-platform`, `swisseon-portal`, `SwissEON_AI`, `docs-notion-user-guide`
 - SwissEON_AI-bis | paused |
@@ -24,8 +28,8 @@ Format: `name | status | notes`. Statuses: `active` · `paused` · `dormant` · 
 - git-notion-master | tool |
 
 ## Personal — `~/Repos_P/`
-- oumamie | active | **[umbrella]** sub-repo: `flaveur/` (perso). Also root-level loose code. → [project](projects/oumamie.md)
-- oumamie_reglementation | active | → [project](projects/oumamie-reglementation.md)
+- oumamie | active | **[umbrella]** sub-repo: `flaveur/` (perso). Also root-level loose code. → [[oumamie]]
+- oumamie_reglementation | active | → [[oumamie-reglementation]]
 - oumamie_crm | dormant | **[umbrella]** no sub-repos currently, code only
 - echa_api | dormant |
 - ECHA_experiments | dormant |

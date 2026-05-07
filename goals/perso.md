@@ -1,3 +1,8 @@
+---
+type: goal
+scope: perso
+---
+
 # Perso goals
 
 ## This quarter

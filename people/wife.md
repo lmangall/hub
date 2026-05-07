@@ -1,3 +1,10 @@
+---
+type: person
+side: family
+role: spouse
+aliases: [Wife]
+---
+
 # Wife
 
 ## Things she asked / told me

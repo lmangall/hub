@@ -1,3 +1,7 @@
+---
+type: convention
+---
+
 # Umbrella directories
 
 Some dirs in `~/Repos/` and `~/Repos_P/` are **umbrellas** — not git repos themselves, but parent dirs that group related sub-repos and hold a project-level `CLAUDE.md` aggregating context across them.
@@ -16,7 +20,7 @@ for d in */; do [ -f "$d/CLAUDE.md" ] && [ ! -e "$d/.git" ] && echo "umbrella: $
 ## Known umbrellas
 | Umbrella | Location | Sub-repos | Notes |
 |----------|----------|-----------|-------|
-| `oumamie` | `~/Repos_P/` | `flaveur/` (perso, `lmangall/flaveur`) | Also has root-level loose code (not git-tracked) |
+| `oumamie` | `~/Repos_P/` | `flaveur/` (perso, `lmangall/flaveur`) | Also has root-level loose code (not git-tracked). See [[oumamie]]. |
 | `SwissEON` | `~/Repos/` | `swisseon-platform`, `swisseon-portal`, `SwissEON_AI`, `docs-notion-user-guide` | Paused project |
 | `oumamie_crm` | `~/Repos_P/` | (none currently) | Code without git init |
 
@@ -26,3 +30,4 @@ for d in */; do [ -f "$d/CLAUDE.md" ] && [ ! -e "$d/.git" ] && echo "umbrella: $
 - The umbrella's `CLAUDE.md` is the cross-cutting view; each sub-repo may have its own.
 - When the user mentions a project by umbrella name (e.g. "oumamie"), they may mean the umbrella context, a specific sub-repo, or both — clarify if ambiguous.
 - When entering a new dir from `~/Repos*/`, check if it's an umbrella before assuming it's a single repo.
+- See also [[git-identities]] for identity-mixing risks inside umbrellas.

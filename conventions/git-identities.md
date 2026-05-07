@@ -1,3 +1,7 @@
+---
+type: convention
+---
+
 # Git identities — pro vs perso
 
 Two separate identities. **Never mix.** Never set/override `git config user.*` without asking.
@@ -32,4 +36,4 @@ git remote -v           # 42Lab-co/* = pro, lmangall/* = perso, host alias matte
 - When **cloning new** repos: ask which identity if not obvious from the URL.
 
 ## Known anomalies
-- `~/Repos_P/oumamie` — perso location, pro email, no remote. Possibly intentional (local-only, written from work machine), possibly a misconfig. Don't fix without asking.
+- `~/Repos_P/oumamie` — perso location, pro email, no remote. **Resolved**: it's an [[umbrella-dirs|umbrella dir]], not misconfigured. See [[umbrella-dirs]].

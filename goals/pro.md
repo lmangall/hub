@@ -1,3 +1,8 @@
+---
+type: goal
+scope: pro
+---
+
 # Pro goals
 
 ## This quarter

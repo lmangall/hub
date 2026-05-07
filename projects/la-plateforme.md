@@ -1,3 +1,11 @@
+---
+type: project
+status: active
+side: pro
+client: entrepreneurs
+aliases: [La Plateforme, la-plateforme]
+---
+
 # la-plateforme
 
 Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo CLAUDE.md) and **Entrepreneurs**.
@@ -11,17 +19,17 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 - Entrepreneurs prod: <https://plateforme.entrepreneurs.com> (e.g. `/associes`)
 - Entrepreneurs staging: <https://staging-entrepreneurs.42lab.co>
 - Landing: <https://get-entrepreneurs.com> (typeform CTA — known typo at 4th word)
-- Demo persona for sales/Léa: `sarah-demo@entrepreneurs.com` / `sarah-demo-2@entrepreneurs.com` (creds in Quentin DM)
+- Demo persona for sales/[[lea|Léa]]: `sarah-demo@entrepreneurs.com` / `sarah-demo-2@entrepreneurs.com` (creds in [[quentin|Quentin]] DM)
 
 ## Stakeholders
-- [Quentin](../people/quentin.md) — cofounder
-- Entrepreneurs program: [Fabrice](../people/entrepreneurs/fabrice.md) (boss), [Léa](../people/entrepreneurs/lea.md) (relay/PM — sits between 42Lab and Entrepreneurs' end-users, opens tickets, tests features)
-- Slack: **`#42lab-X-Entrepreneurs`** (`C0AFPEVCPR8`) — operational channel, multi-deploy/day, SaShip bot posts deploys + Zendesk tickets here
+- [[quentin|Quentin]] — cofounder
+- Entrepreneurs program: [[fabrice|Fabrice]] (boss), [[lea|Léa]] (relay/PM — sits between 42Lab and Entrepreneurs' end-users, opens tickets, tests features)
+- Slack: **`#42lab-X-Entrepreneurs`** (`C0AFPEVCPR8`) — operational channel, multi-deploy/day, [[saship|SaShip]] bot posts deploys + Zendesk tickets here
 - Active end users referenced in tickets/DMs: Hélène Agati (Excel upload bug), Alfonso (deal process bug), Abdel (offer-quality), Myriam Daniel (LeanPay redirect bug → goes to wrong portal, should be Learnybox), Aurélie Castel (coach change), Tristan Monthillier (coach access)
 
 ## Open threads
-- Should I avoid asking Léa to test/verify things? Or keep doing it via hello-work/priv? *(asked Quentin 2026-05-07)*
-- **Admins cleanup**: Quentin to send list of admins to remove or whose role to restrict
+- Should I avoid asking [[lea|Léa]] to test/verify things? Or keep doing it via hello-work/priv? *(asked [[quentin|Quentin]] 2026-05-07)*
+- **Admins cleanup**: [[quentin|Quentin]] to send list of admins to remove or whose role to restrict
 - **Refonte agents IA**: 6 unused prompts to clean up or wire — `delivery-experience`, `automatisation-ia`, `leadership-mindset`, `strategie-expansion`, `resolution-client`, `consulting-live` (admin-only by design)
 - **Inngest V4 migration** deferred — V4 has breaking changes, only bumped to V3 for now
 - **Knowledge Graph** thread (Dassault Systèmes context, big-data + LLM angle)
@@ -40,7 +48,7 @@ Coaching SaaS for entrepreneurs. Two programs: **SaaS** (current focus per repo 
 
 ## Decisions / context worth remembering
 - **HeySimon designer** under trial — "très costaud sur la création d'un branding à partir d'un pitch"; advantage for 42Lab MVP work
-- Finances module: multi-account detection broken — virements between own accounts show as top-5 client revenue (Quentin auditing 2026-04-20)
+- Finances module: multi-account detection broken — virements between own accounts show as top-5 client revenue ([[quentin|Quentin]] auditing 2026-04-20)
 - `next-intl` planned for the la-plateforme stack
 - Veille/Concurrents agent uses Firecrawl `crawl` endpoint — picks up SEO URLs not on landing
 - Active client capacity rule reduced to **two criteria**: period + access
