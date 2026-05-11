@@ -55,8 +55,10 @@ aliases: [Business School, Alix astrology MVP]
 - 📜 **ANNEXE A — Cahier des charges fonctionnel** ([[quentin|Quentin]], 2026-01-06) — full functional spec, 9 sections (objectif, onboarding, chartes, tableau de bord, agents IA, back-office, hors-périmètre, évolutivité). The contract scope.
   → [Slack source](https://42lab.slack.com/archives/C09U42NP7JA/p1767689668003249)
 
-**V2 docs (Build #2)** — from `#business-school-ai`:
-- 📄 **Brief de Kickoff — Build #2 · 60 Jours** (Alix, 2026-05-03) — primary V2 brief
+**V2 docs (Build #2 — 60 jours)**:
+- 📌 **[[roadmap-alix|Scope détaillé Alix — canonical V2 roadmap]]** ([[quentin|Quentin]], 2026-05-11) — 8 modules + Build 60 jours week-by-week (S1–S9). **Working doc going forward.**
+  → [Slack source](https://42lab.slack.com/files/U09PR0HB4E8/F0B315W164A/roadmap-alix.md) · local copy: `projects/roadmap-alix.md`
+- 📄 **Brief de Kickoff — Build #2 · 60 Jours** (Alix, 2026-05-03) — Alix's V2 brief (Quentin's roadmap-alix.md supersedes for sequencing)
   → [Google Doc](https://docs.google.com/document/d/16L0ah-cy1wewIhIwp5WRzHWAVzNdWCdhqYpzaZDo85E/edit) · [Slack source](https://42lab.slack.com/archives/C0A773J15FF/p1777833804984049)
 - 📄 **APPLICATION WEB - 2e itération** (Alix, 2026-03-13) — earlier V2 ideation doc
   → [Google Doc](https://docs.google.com/document/d/1WNu52ZC2w0OzQKFFyOYr636R4ic_k2lS08g4sb0I9FY/edit) · [Slack source](https://42lab.slack.com/archives/C0A773J15FF/p1773417467648589)
