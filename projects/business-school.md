@@ -14,7 +14,9 @@ aliases: [Business School, Alix astrology MVP]
 - Code: [`~/Repos/business_school_ai_platform/CLAUDE.md`](file:///Users/lmangall/Repos/business_school_ai_platform/CLAUDE.md)
 - Feature branch: `~/Repos/business_school_ai_platform-ai-feature`
 - **Not on [[saship|SaShip]]** (yet). SaShip currently wires Entrepreneurs only.
-- Slack: **`#business-school-ai`** (`C0A773J15FF`) — see [[slack]] for channel registry + ticketing
+- Slack channels:
+  - **`#business-school-ai`** (`C0A773J15FF`) — client channel with [[alix|Alix]]
+  - **`#astro-dev`** (`C09U42NP7JA`) — internal dev channel ([[quentin|Quentin]] + Léonard); scope docs, roadmaps, technical refs live here
 
 ## Product
 
@@ -46,6 +48,14 @@ aliases: [Business School, Alix astrology MVP]
 ## Scope kickoff — Build #2 (V2, current scope)
 
 ### Roadmap & briefs (canonical docs)
+
+**Initial scope (Build #1 / V1)** — from `#astro-dev`:
+- 📄 **Roadmap pour Alix** ([[quentin|Quentin]], 2026-01-07) — .md file attachment (open in Slack to download)
+  → [Slack source](https://42lab.slack.com/archives/C09U42NP7JA/p1767781776498589)
+- 📜 **ANNEXE A — Cahier des charges fonctionnel** ([[quentin|Quentin]], 2026-01-06) — full functional spec, 9 sections (objectif, onboarding, chartes, tableau de bord, agents IA, back-office, hors-périmètre, évolutivité). The contract scope.
+  → [Slack source](https://42lab.slack.com/archives/C09U42NP7JA/p1767689668003249)
+
+**V2 docs (Build #2)** — from `#business-school-ai`:
 - 📄 **Brief de Kickoff — Build #2 · 60 Jours** (Alix, 2026-05-03) — primary V2 brief
   → [Google Doc](https://docs.google.com/document/d/16L0ah-cy1wewIhIwp5WRzHWAVzNdWCdhqYpzaZDo85E/edit) · [Slack source](https://42lab.slack.com/archives/C0A773J15FF/p1777833804984049)
 - 📄 **APPLICATION WEB - 2e itération** (Alix, 2026-03-13) — earlier V2 ideation doc
@@ -85,6 +95,10 @@ aliases: [Business School, Alix astrology MVP]
 
 ### Technical references
 - [kibo-ui image-crop component](https://www.kibo-ui.com/components/image-crop) — Quentin shared 2026-02-11 ([src](https://42lab.slack.com/archives/D09PKC6S170/p1770813811226969))
+- [bodygraph.com](https://bodygraph.com/) — Human Design / Gene Keys data source ([src](https://42lab.slack.com/archives/C09U42NP7JA/p1763629452854119))
+- [docs.astroapi.cloud](https://docs.astroapi.cloud/) — astrology API ([src](https://42lab.slack.com/archives/C09U42NP7JA/p1763629470072209))
+- BODYGRAPH_API_KEY shared in `#astro-dev` ([src](https://42lab.slack.com/archives/C09U42NP7JA/p1763652136234209))
+- Code: `github.com/42Lab-co/Astro` (`docs/svg-attempts.md`, `logs/api-requests.log`)
 
 ## Currently being worked on (early May)
 - **Charte UI/UX V2** — Léonard pushing iterations: degrees on chart, weighted aspect lines (orb-based), Débutant/Standard/Toutes selector (5/10/15 bodies), planet hover isolation, "Positions planétaires" panel, info button, animations. Multiple variants for Alix to choose.

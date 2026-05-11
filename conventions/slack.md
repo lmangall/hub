@@ -11,6 +11,7 @@ type: convention
 | `D09PKC6S170` | DM with [[quentin\|Quentin]] | [[quentin]] | Heavy daily, primary async pair-of-eyes |
 | `C0AFPEVCPR8` | #42lab-X-Entrepreneurs | [[la-plateforme]] | Operational, multi-deploy/day, [[saship\|SaShip]] bot posts deploys + Zendesk tickets |
 | `C0A773J15FF` | #business-school-ai | [[business-school]] | [[alix\|Alix]] client channel — request/feedback flow, V1 in prod + V2 in design |
+| `C09U42NP7JA` | #astro-dev | [[business-school]] | Internal dev channel ([[quentin\|Quentin]] + Léonard only) — scope docs, roadmaps, technical refs for Alix's project |
 
 When user mentions a project or person ("check Alix", "what's pending for Entrepreneurs"), look up the channel here.
 
