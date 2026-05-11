@@ -42,6 +42,7 @@ Cross-project context. Always read [[today]] first for current focus.
 - **Git identities**: pro (42Lab) and perso are separate — see [[git-identities]]. Never mix.
 - **Umbrella dirs**: some `~/Repos*/` entries are parent dirs grouping multiple sub-repos under one CLAUDE.md — see [[umbrella-dirs]]. Check before assuming a dir is a single repo.
 - **Slack channels & ticketing**: registry of channel IDs + the wheel/tick convention for "what's open for X" queries — see [[slack]].
+- **Session startup brief**: every fresh session, produce a 5–10 line brief of calendar / pending / Slack / hub state — see [[startup]].
 
 ## Future
 - **Active reminders** via Resend (already used in la-plateforme): `/schedule` → cron → email. Set up later.
