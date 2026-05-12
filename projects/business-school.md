@@ -56,7 +56,8 @@ aliases: [Business School, Alix astrology MVP]
   → [Slack source](https://42lab.slack.com/archives/C09U42NP7JA/p1767689668003249)
 
 **V2 docs (Build #2 — 60 jours)**:
-- 📌 **[[roadmap-alix|Scope détaillé Alix — canonical V2 roadmap]]** ([[quentin|Quentin]], 2026-05-11) — 8 modules + Build 60 jours week-by-week (S1–S9). **Working doc going forward.**
+- 📌 **[[kickoff-brief-alix|Kickoff Brief Build 2]]** (received 2026-05-12 PDF, transcribed) — **most complete** scope doc. Contract context (AR International signed 2026-04-20, kickoff 2026-05-04, ~29k€ HT in 3 payments), pricing tiers (Essentiel 19€ / Pro 29€ / Business 49€), 3 absolute priorities (Swiss Ephemeris roue natale, agents IA context injection, Mon Entourage), differentiating features (Oracle agent, viral Carte de Relation, praticien PDF), exclusions, and Build #3+ vision (6 product visions for long-term).
+- 📌 **[[roadmap-alix|Scope détaillé Alix]]** ([[quentin|Quentin]], 2026-05-11) — 8 modules + Build 60j week-by-week (S1–S9). Roadmap sequencing differs from the Kickoff Brief — **reconcile at kickoff**.
   → [Slack source](https://42lab.slack.com/files/U09PR0HB4E8/F0B315W164A/roadmap-alix.md) · local copy: `projects/roadmap-alix.md`
 - 📄 **Brief de Kickoff — Build #2 · 60 Jours** (Alix, 2026-05-03) — Alix's V2 brief (Quentin's roadmap-alix.md supersedes for sequencing)
   → [Google Doc](https://docs.google.com/document/d/16L0ah-cy1wewIhIwp5WRzHWAVzNdWCdhqYpzaZDo85E/edit) · [Slack source](https://42lab.slack.com/archives/C0A773J15FF/p1777833804984049)
@@ -106,9 +107,11 @@ aliases: [Business School, Alix astrology MVP]
 - **Charte UI/UX V2** — Léonard pushing iterations: degrees on chart, weighted aspect lines (orb-based), Débutant/Standard/Toutes selector (5/10/15 bodies), planet hover isolation, "Positions planétaires" panel, info button, animations. Multiple variants for Alix to choose.
 
 ## Deployment
-- Production: <https://alix.42lab.co> — custom domain set up 2026-01-09 ([Slack source](https://42lab.slack.com/archives/D09PKC6S170/p1767954493380649))
+- Production: <https://app.businessschoolalix.com>
+- Staging: <https://alix.42lab.co> — reassigned from Production to Preview/All-Branches on 2026-05-12. (Originally set up as prod 2026-01-09, [Slack source](https://42lab.slack.com/archives/D09PKC6S170/p1767954493380649); replaced by `app.businessschoolalix.com` as prod since.)
 - Vercel app: <https://business-school-ai-platform.vercel.app>
 - Vercel project: <https://vercel.com/42lab/business-school-ai-platform>
+- Staging plan: see `.context/staging-setup.md` in the repo
 
 ## Open threads
 - **Lancement target** (Léonard's 2026-05-04 note in [[quentin|Quentin]] DM): possible weeks 8-14 *sans* LMS / *sans* API. Start with UI fix + Agent IA.
