@@ -58,7 +58,7 @@ aliases: [Business School, Alix astrology MVP]
 **V2 docs (Build #2 — 60 jours)**:
 - 📌 **[[kickoff-brief-alix|Kickoff Brief Build 2]]** (received 2026-05-12 PDF, transcribed) — **most complete** scope doc. Contract context (AR International signed 2026-04-20, kickoff 2026-05-04, ~29k€ HT in 3 payments), pricing tiers (Essentiel 19€ / Pro 29€ / Business 49€), 3 absolute priorities (Swiss Ephemeris roue natale, agents IA context injection, Mon Entourage), differentiating features (Oracle agent, viral Carte de Relation, praticien PDF), exclusions, and Build #3+ vision (6 product visions for long-term).
 - 📌 **[[roadmap-alix|Scope détaillé Alix]]** ([[quentin|Quentin]], 2026-05-11) — 8 modules + Build 60j week-by-week (S1–S9). Roadmap sequencing differs from the Kickoff Brief — **reconcile at kickoff**.
-  → [Slack source](https://42lab.slack.com/files/U09PR0HB4E8/F0B315W164A/roadmap-alix.md) · local copy: `projects/roadmap-alix.md`
+  → [Slack source](https://42lab.slack.com/files/U09PR0HB4E8/F0B315W164A/roadmap-alix.md) · local copy: `projects/business-school/roadmap-alix.md`
 - 📄 **Brief de Kickoff — Build #2 · 60 Jours** (Alix, 2026-05-03) — Alix's V2 brief (Quentin's roadmap-alix.md supersedes for sequencing)
   → [Google Doc](https://docs.google.com/document/d/16L0ah-cy1wewIhIwp5WRzHWAVzNdWCdhqYpzaZDo85E/edit) · [Slack source](https://42lab.slack.com/archives/C0A773J15FF/p1777833804984049)
 - 📄 **APPLICATION WEB - 2e itération** (Alix, 2026-03-13) — earlier V2 ideation doc
