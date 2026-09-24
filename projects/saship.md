@@ -36,10 +36,8 @@ Client dev repo (la-plateforme)              SaShip tracking repo
 - **Currently used only for: Entrepreneurs program** ([[la-plateforme]] / `la-plateforme-SECOND`), branch `eos`. Other clients ([[business-school]] / [[alix|Alix]]) are not yet wired into SaShip.
 
 ## Open threads
-- [2026-09-24] Digest repaired (dead since 07-02: `jq` argument limit on `commits.mdx`). It now catches up from `lastSync`, and the first run backfilled 863 commits. Scope-2 statuses were refreshed by hand (17/34 shipped); `/roadmap` reads SaShip live. Details: auto-memory `saship-roadmap-stale-and-digest-broken.md`.
-- **Decide:** re-enable or retire the daily Slack digest and AI deliverable matching. They have been dormant since 2026-03-30 because commits stopped carrying `COMMIT_PREFIX=[EOS]`; emptying that variable turns them back on.
+- [2026-09-24] Digest repaired (dead since 07-02: `jq` argument limit) and now catches up from `lastSync`; the first run backfilled 863 commits. The daily AI/Slack digest is back on (`COMMIT_PREFIX` deleted; undo with `gh variable set COMMIT_PREFIX --body "[EOS]"`), and its first post should come with the 2026-09-25 morning run. Q3–Q4 statuses are refreshed, with Engram, LMS and the Paris launch night confirmed shipped (19/34). Details: auto-memory `saship-roadmap-stale-and-digest-broken.md`.
 - ⚠️ `SLACK_WEBHOOK_URL` is also stored as a plain repo **variable** on la-plateforme, visible to anyone with repo access. Delete it and rotate the webhook (the workflows use the secret).
-- Ask [[quentin|Quentin]]: Engram status (marked deployed, but in pilot since 09-17), LMS (staging, still Circle-backed), and whether the 4/09 Paris launch night happened (unverifiable from code).
 
 ## Decisions / context worth remembering
 - **SaSentinel** *(planned, not yet built)*: scheduled Claude agent. Each Thursday morning, re-reads the week's IA conversations, flags ones where users struggled, checks if a Linear ticket already exists, posts a structured report to the SaShip Slack channel. Discussed 2026-04-30. Owner: Léonard?
